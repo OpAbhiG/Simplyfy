@@ -1,6 +1,6 @@
 # Engg Final year Project Title: Innovation and Data Management
 
- # Simplyfy Android Application.
+ Simplyfy Android Application.
 
 ## Overview
 An android application that demonstrates the following:
