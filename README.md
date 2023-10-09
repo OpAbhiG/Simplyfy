@@ -1,3 +1,5 @@
+# Project Title: Innovation and Data Management
+
  # Simplyfy Android Application.
 
 ## Overview
@@ -8,17 +10,25 @@ An android application that demonstrates the following:
 4. An option to share the Excel as well.
 
 
-
 Innovation and data management in the finance sector.
 Role: Android Developer
 Project Details: As an Android Developer, I spearheaded an innovative project in the finance sector,
 creating an Android application called "Simplify." 
 The application was developed using Java and aimed to streamline various aspects of data management within financial organizations.
 
-Language: Java Tool: Android Studio.
-Features: Contact reading and sharing.
-Future key features: Tracking, Reminders
-Future Scope: Potential for expansion includes incorporating data analytics, secure financial transactions, and strategic partnerships with financial institutions.
+Language: Java 
+Tool: Android Studio.
+
+Future key features:
+Contact reading and sharing
+
+•Identified areas for potential growth and expansion, including:
+
+•Adding a signing page for enhanced security and user identification.
+
+•Implementing tracking functionality to monitor user activities.
+
+•Introducing reminders as essential features to improve user experie.
 
 ![Screenshot 2023-08-01 155950](https://github.com/OpAbhiG/Simplyfy/assets/110295591/640bbf48-4cb4-4867-95ed-75359a795f0d)
 
